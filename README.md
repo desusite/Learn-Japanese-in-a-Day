@@ -1,7 +1,7 @@
 # LEARN JAPANESE IN A DAY
 Learn Japanese through the study of basic sentence structure, commonly used phrases and Kanji
 
-## ENGLISH SENTENCE STRUCTURE: *SOV* (SUBJECT OBJECT VERB)
+## ENGLISH SENTENCE STRUCTURE: SOV
 SUBJECT | OBJECT | VERB
 :------:|:------:|:----:
 I | ate | an apple |
