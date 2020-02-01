@@ -6,6 +6,11 @@ SUBJECT | OBJECT | VERB
 :------:|:------:|:----:
 I | ate | an apple |
 
+## JAPANESE SENTENCE STRUCTURE: SVO
+SUBJECT | OBJECT | VERB
+:------:|:-------|-----:
+watashi wa | ringo o | tabemashita
+
 ## BASIC MEETING & GREETINGS PHRASES
 konnichiwa (こんにちは) – ***Hello*** </br>
 ohayou gozaimasu (おはようございます) – ***Good morning*** </br>
