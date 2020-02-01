@@ -32,7 +32,7 @@ mou ichido itte kudasai (もういちどいってください) - ***Say it again
 ## CONVERSATION STARTERS
 ima isogashii desu ka? (いまいそがしいですか？) - ***Are you busy now?*** \
 konshuumatsu yotei ga arimasu ka? (こんしゅうまつよていがありますか？) - ***What are you plans this weekend?*** \
-Kazoku no minasan wa ikaga desu ka? (かぞくのみなさんわいかがですか？) - ***How is your family?*** \
+kazoku no minasan wa ikaga desu ka? (かぞくのみなさんわいかがですか？) - ***How is your family?*** \
 jiko shoukai o onegaishimasu (じこしょうかいをおねがいします) - ***Tell me about yourself*** \
 dou omoimasu ka? (どうおもいますか?) - ***What do you think?*** 
 
