@@ -7,7 +7,7 @@ SUBJECT | OBJECT | VERB
 I | ate | an apple |
 
 ## JAPANESE SENTENCE STRUCTURE: SVO
-SUBJECT | OBJECT |VERB 
+SUBJECT | OBJECT | <center> VERB </center> 
 :------:|:-------|------:
 watashi wa | ringo o | tabemashita |
 
