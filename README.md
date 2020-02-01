@@ -67,7 +67,7 @@ tabun (たぶん) - ***Maybe***
 
 
 ## TRANSITIONS WORDS DURING CONVERSATIONS
-Sore wa yoishitsu mondesu ne (それはよいしつもんですね) - ***That’s a good question*** \
+sore wa yoishitsu mondesu ne (それはよいしつもんですね) - ***That’s a good question*** \
 daijoubu (だいじょうぶ) - ***Alright*** \
 chotto matte kudasai (ちょっとまってください) - ***Wait a moment*** \
 kuyokuyo suru na (くよくよするな) - ***Don’t worry*** \
