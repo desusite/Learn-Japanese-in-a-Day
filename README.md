@@ -2,19 +2,19 @@
 Learn Japanese through the study of basic sentence structure, commonly used phrases and Kanji
 
 ## BASIC MEETING & GREETINGS PHRASES
-konnichiwa (こんにちは) – ***Hello*** \
-ohayou gozaimasu (おはようございます) – ***Good morning*** \
-konbanwa (こんにちは) – ***Good evening*** \
-moshi moshi (もしもし) – ***Hello (but only if you’re on the phone or something like Skype)*** \
-ogenki desu ka? (お元気ですか) – ***How are you?*** \
-genki desu (元気です) – ***I’m good/I’ve been doing well, thanks*** \
-ohisashiburi desu ne (お久しぶりですね) – ***Long time no see*** \
+- konnichiwa (こんにちは) – ***Hello*** \
+- ohayou gozaimasu (おはようございます) – ***Good morning*** \
+- konbanwa (こんにちは) – ***Good evening*** \
+- moshi moshi (もしもし) – ***Hello (but only if you’re on the phone or something like Skype)*** \
+- ogenki desu ka? (お元気ですか) – ***How are you?*** \
+- genki desu (元気です) – ***I’m good/I’ve been doing well, thanks*** \
+- ohisashiburi desu ne (お久しぶりですね) – ***Long time no see*** \
 _______–san mo? ( ______-さんも？) – ***And you? (Hint: fill in the blank with your friend’s name. This is a great response to things like “How are you?” because you can say, “I’m good! And you?”)*** \
-eigo o hanasemasu ka (えいごをはなせますか) - ***Do you speak English?*** \
-[watashi wa] nihongo ga sukoshi hanasemasu (わたしわにほんごがすこしはなせます) - ***I only speak a little Japanese*** \
-o-namae wa nan desu ka (おなまえはなんですか) - ***What is your name?*** \
-daijobu desu (だいじょうぶです) - ***That is alright*** \
-wakarimasu (わかります) - ***I understand you*** \
+- eigo o hanasemasu ka (えいごをはなせますか) - ***Do you speak English?*** \
+- [watashi wa] nihongo ga sukoshi hanasemasu (わたしわにほんごがすこしはなせます) - ***I only speak a little Japanese*** \
+- o-namae wa nan desu ka (おなまえはなんですか) - ***What is your name?*** \
+- daijobu desu (だいじょうぶです) - ***That is alright*** \
+- wakarimasu (わかります) - ***I understand you*** \
 
 
 
