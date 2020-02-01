@@ -1,4 +1,4 @@
-# Learn-Japanese-in-a-Day
+# LEARN JAPANESE IN A DAY
 Learn Japanese through the study of basic sentence structure, commonly used phrases and Kanji
 
 ## BASIC MEETING & GREETINGS PHRASES
