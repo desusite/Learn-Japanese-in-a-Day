@@ -1,12 +1,12 @@
 # LEARN JAPANESE IN A DAY
 Learn Japanese through the study of basic sentence structure, commonly used phrases and Kanji
 
-## ENGLISH SENTENCE STRUCTURE: SOV
-SUBJECT | OBJECT | VERB
+## ENGLISH SENTENCE STRUCTURE: SVO
+SUBJECT | VERB | OBJECT
 :------:|:------:|:----:
 I | ate | an apple |
 
-## JAPANESE SENTENCE STRUCTURE: SVO
+## JAPANESE SENTENCE STRUCTURE: SOV
 SUBJECT | OBJECT | VERB
 :------:|:-------:|:------:
 watashi wa | ringo o | tabemashita |
