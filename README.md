@@ -77,6 +77,6 @@ sayounara(さようなら) - ***Goodbye***
 shyuu (しゅう) - ***Week*** 
 
 ## COMMONLY USED KANJI
-週 </br> week | 日 </br> sun| 大 </br> big | 年 </br> year | 中 </br> middle 
+週 </br> <span style="font-weight:normal">week</span> | 日 </br> sun| 大 </br> big | 年 </br> year | 中 </br> middle 
 :------------------:|:------------------:|:------------------:|:-------------------:|:--------------------:
 **会** </br> to meet  | **人** </br> human being, people | **本** </br> book | **月** </br> moon, month | **長** </br> long
