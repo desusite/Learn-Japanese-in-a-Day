@@ -8,7 +8,7 @@ I | ate | an apple |
 
 ## JAPANESE SENTENCE STRUCTURE: SVO
 SUBJECT | OBJECT | VERB
-:------:|:-------|-----:
+:------:|:-------|------:
 watashi wa | ringo o | tabemashita
 
 ## BASIC MEETING & GREETINGS PHRASES
