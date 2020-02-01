@@ -1,6 +1,11 @@
 # LEARN JAPANESE IN A DAY
 Learn Japanese through the study of basic sentence structure, commonly used phrases and Kanji
 
+# English Sentence Structure: SOV (Subject Object Verb)
+SUBJECT | OBJECT | VERB
+:------:|:------:|:----:
+I | ate | an apple. |
+
 ## BASIC MEETING & GREETINGS PHRASES
 konnichiwa (こんにちは) – ***Hello*** </br>
 ohayou gozaimasu (おはようございます) – ***Good morning*** </br>
