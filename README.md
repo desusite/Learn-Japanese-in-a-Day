@@ -9,7 +9,7 @@ I | ate | an apple |
 ## JAPANESE SENTENCE STRUCTURE: SVO
 SUBJECT | OBJECT | VERB
 :------:|:-------|------:
-watashi wa (I) | ringo o  (apple) | an apple |
+watashi wa | ringo o | an apple |
 
 ## BASIC MEETING & GREETINGS PHRASES
 konnichiwa (こんにちは) – ***Hello*** </br>
