@@ -9,7 +9,7 @@ moshi moshi (もしもし) – ***Hello (only phone or video calls)*** </br>
 ogenki desu ka? (お元気ですか) – ***How are you?*** </br>
 genki desu (元気です) – ***I’m good/I’ve been doing well, thanks*** </br>
 ohisashiburi desu ne (お久しぶりですね) – ***Long time no see*** </br>
-_______–san mo? ( ______-さんも？) – ***And you? (Hint: fill in the blank with listener's name*** </br>
+_______–san mo? ( ______-さんも？) – ***And you? (Hint: fill in the blank with listener's name)*** </br>
 eigo o hanasemasu ka (えいごをはなせますか) - ***Do you speak English?*** </br>
 [watashi wa] nihongo ga sukoshi hanasemasu (わたしわにほんごがすこしはなせます) - ***I only speak a little Japanese*** </br>
 o-namae wa nan desu ka (おなまえはなんですか) - ***What is your name?*** </br>
