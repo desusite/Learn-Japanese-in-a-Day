@@ -1,5 +1,5 @@
 # LEARN JAPANESE IN A DAY
-Learn Japanese through the study of basic sentence structure, commonly used phrases and Kanji
+Learn Japanese 101 in a day with this cheat sheet / study guide
 
 # JAPANESE SYLLABLES
 ![alt text](hiragana_chart.jpg)
