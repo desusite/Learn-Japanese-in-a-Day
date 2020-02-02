@@ -5,7 +5,7 @@ Learn Japanese through the study of basic sentence structure, commonly used phra
 ![alt text](hiragana_chart.jpg)
 ![alt text](katakana_chart.jpg)
 
-### NOTE: Hiragana can be used for everything, however, foreign names or words are written in Katakana. Words that can written in Kanji should also replace their Hiragana counterpart
+#### NOTE: Hiragana can be used for everything, however, foreign names or words are written in Katakana. Words that can written in Kanji should also replace their Hiragana counterpart
 
 ### Example Sentence
 English: I ate an apple </br>
