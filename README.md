@@ -11,7 +11,7 @@ SUBJECT | OBJECT | VERB
 :------:|:-------:|:------:
 watashi wa | ringo o | tabemashita |
 
-watashi [I] wa [subject particle] ringo o tabemashita / わたしはりんごをたべました <br>
+watashi [ I ] wa [ subject particle ] ringo o tabemashita / わたしはりんごをたべました <br>
 watashi = I, wa = subject particle, ringo = apple, o = object particle, tabemashita = ate
  
 ## BASIC MEETING & GREETINGS PHRASES
