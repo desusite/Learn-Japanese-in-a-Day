@@ -1,6 +1,18 @@
 # LEARN JAPANESE IN A DAY
 Learn Japanese through the study of basic sentence structure, commonly used phrases and Kanji
 
+# JAPANESE SYLLABLES
+![alt text](hiragana_chart.jpg)
+![alt text](katakana_chart.jpg)
+
+### NOTE: Hiragana can be used for everything, however, foreign names or words are written in Katakana. Words that can written in Kanji should also replace their Hiragana counterpart
+
+### Example Sentence
+English: I ate an apple </br>
+Romaji: watashi wa ringo o tabemashita </br>
+Hiragana: わたしはりんごをたべました </br>
+Hiragana + Kanji : わたしは林檎を食べました </br>
+
 ## ENGLISH SENTENCE STRUCTURE: SVO
 SUBJECT | VERB | OBJECT
 :------:|:------:|:----:
