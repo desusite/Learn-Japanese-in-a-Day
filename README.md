@@ -17,7 +17,7 @@ watashi = i | wa = subject particle | ringo = apple | o = object particle | tabe
 ### Note: Usually omit the subject, such as "watashi wa" if it is obvious to listener who it is
 ### Example Conversation
 Person 1: O-namae wa nan desu ka　/　おなまえはなんですか　/　What is your name? </br>
-Person 2: Tanaka-san desu.　/　たなかさんです　/　[ My name is ] Tanaka-san 
+Person 2: Tanaka-san desu.　/　たなかさんです　/　[ My name is ]　Tanaka-san 
 
 ## BASIC MEETING & GREETINGS PHRASES
 konnichiwa (こんにちは) – ***Hello*** </br>
