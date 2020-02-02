@@ -11,6 +11,9 @@ SUBJECT | OBJECT | VERB
 :------:|:-------:|:------:
 watashi wa | ringo o | tabemashita |
 
+watashi wa ringo o tabemashita / わたしはりんごをたべました
+ (I)   (subject particle)　(apple) (object particle) (ate)
+ 
 ## BASIC MEETING & GREETINGS PHRASES
 konnichiwa (こんにちは) – ***Hello*** </br>
 ohayou gozaimasu (おはようございます) – ***Good morning*** </br>
