@@ -31,6 +31,10 @@ watashi = i | wa = subject particle | ringo = apple | o = object particle | tabe
 Person 1: O-namae wa nan desu ka　/　おなまえはなんですか　/　What is your name? </br>
 Person 2: Tanaka-san desu.　/　たなかさんです　/　[ My name is ]　Tanaka-san 
 
+## JAPANESE PARTICLES: は (wa) を (o) も (mo) に (ni) へ (e) で (de) が (ga) まで (made) と (to) や (ya) の (no) ね (ne) よ (yo)
+
+ 
+
 ## BASIC MEETING & GREETINGS PHRASES
 konnichiwa (こんにちは) – ***Hello*** </br>
 ohayou gozaimasu (おはようございます) – ***Good morning*** </br>
